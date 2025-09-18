@@ -218,4 +218,8 @@ RuntimeError: audio_alsa_sink
 
 Esto se obtiene al hacer lo anterior
 
+PROBARRRR:               DASD-----------------------------------------------------
+
+sudo mv /usr/local/lib/python3.9/dist-packages/iio.py /root/iio_backups/iio.py.bak
+sudo mv /usr/local/lib/python3.9/dist-packages/iio /root/iio_backups/iio_pkg_bak
 
